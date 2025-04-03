@@ -172,7 +172,7 @@ final router = GoRouter(
     ),
   ],
 );
-asdasdfaDasdASDASasdfasdf
+asdasdfaDasdASDASasdfasdfasdfasdfasdasa
 class AnimationSamples extends StatelessWidget {
   const AnimationSamples({super.key});
 
